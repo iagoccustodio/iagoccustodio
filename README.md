@@ -1,9 +1,9 @@
 <h1 align="center">
-  Olá 👋, eu sou Iago de Carvalho
+ 👋 Hey, I'm Iago de Carvalho
 </h1>
 
 <h3 align="center">
-  Desenvolvedor Full Stack • Estudante de ADS • Futuro Cybersecurity Analyst
+  Java Back-end Developer
 </h3>
 
 ---
