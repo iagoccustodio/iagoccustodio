@@ -3,19 +3,12 @@
 </h1>
 
 <h3 align="center">
-  Java Back-end Developer
+ Student of Systems Analysis and Development in Rio de Janeiro
 </h3>
 
 ---
 
-## 🚀 Sobre mim
-
-💻 Desenvolvedor focado em:
-- Java
-- Python
-- JavaScript
-- Cybersecurity
-- Git & GitHub
+💻 Tecnologias com as quais trabalho
 
 🎯 Objetivos:
 - Conseguir vaga como desenvolvedor
