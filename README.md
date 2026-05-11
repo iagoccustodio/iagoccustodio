@@ -8,7 +8,9 @@
 
 ---
 
-💻 Tecnologias com as quais trabalho
+<h1>
+ 💻 Technologies I work with
+</h1>
 
 🎯 Objetivos:
 - Conseguir vaga como desenvolvedor
