@@ -11,6 +11,9 @@
 <h1>
  💻 Technologies I work with
 </h1>
+<h3>
+ I have a keen interest in technology and am always looking to learn new things and develop my skills.
+</h3>
 
 🎯 Objetivos:
 - Conseguir vaga como desenvolvedor
