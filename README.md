@@ -17,6 +17,7 @@ Full Stack Developer | Java & Spring Boot | React & TypeScript
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I'm a Systems Analysis and Development student with a strong interest in full-stack development and a constant fokus on creating scalable, modern, and high-performance applications. I strive to continuously improve my skills in front-end and back-end technologies, aiming to develop efficient solutions that meet market demands.
+
 💻 Focused on:
 - Java & Spring Boot
 - React & TypeScript
