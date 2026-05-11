@@ -1,21 +1,29 @@
-<h1 align="center">
- 👋 Hey, I'm Iago de Carvalho
-</h1>
+<h1 align="center">👋 Hey, I'm Iago de Carvalho</h1>
 
 <h3 align="center">
- Student of Systems Analysis and Development in Rio de Janeiro
+Student of Systems Analysis and Development in Rio de Janeiro
 </h3>
 
 ---
 
-<h1>
- 💻 Technologies I work with
-</h1>
-<h3>
- I have a keen interest in technology and am always looking to learn new things and develop my skills.
-</h3>
+# 💻 Technologies I work with
 
+I’m always looking to learn new technologies and improve my skills as a developer.
 
+<br>
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
