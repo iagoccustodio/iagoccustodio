@@ -15,18 +15,6 @@
  I have a keen interest in technology and am always looking to learn new things and develop my skills.
 </h3>
 
-🎯 Objetivos:
-- Conseguir vaga como desenvolvedor
-- Evoluir em Blue Team / SOC
-- Construir projetos reais
-
-📚 Atualmente estudando:
-- Java
-- AWS & Cloud
-- Linux
-- Segurança da Informação
-
----
 
 ## 📊 GitHub Stats
 
