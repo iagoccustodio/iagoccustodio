@@ -120,25 +120,6 @@ Become a highly skilled Full Stack Engineer focused on scalable solutions and mo
 
 </div>
 
----
-
-# 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night"/>
-
-</div>
 
 ---
 
